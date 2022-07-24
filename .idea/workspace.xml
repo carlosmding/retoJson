@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b97270ef-876c-4558-80f7-ef02e46d6530" name="Changes" comment="Inicio proyecto Reto JSON">
+    <list default="true" id="b97270ef-876c-4558-80f7-ef02e46d6530" name="Changes" comment="Código Completo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/laboratorioJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/laboratorioJson.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658668407652</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Código Completo">
+      <created>1658669835904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658669835904</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicio proyecto Reto JSON" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicio proyecto Reto JSON" />
+    <MESSAGE value="Código Completo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Código Completo" />
   </component>
 </project>
